@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="10dp"
+
+    android:orientation="vertical"
+    tools:context="com.example.rawan.retrieve.MainActivity">
+
+    <Button
+        android:id="@+id/SignUp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/cardview_light_background"
+        android:text="Sign Up" />
+
+    <Button
+        android:id="@+id/SignIn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorPrimary"
+        android:text="Sign In"
+        android:textColor="@color/cardview_light_background"
+        />
+
+    <Button
+        android:textColor="@color/cardview_light_background"
+
+        android:id="@+id/entry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorPrimary"
+        android:text="Entry" />
+
+
+    <TextView
+        android:id="@+id/textViewUserEmail"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="TextView" />
+
+</LinearLayout>

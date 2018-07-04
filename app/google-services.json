@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "765979984717",
+    "firebase_url": "https://storeretrieve-eb4c0.firebaseio.com",
+    "project_id": "storeretrieve-eb4c0",
+    "storage_bucket": "storeretrieve-eb4c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765979984717:android:0fa5db308adc3b83",
+        "android_client_info": {
+          "package_name": "com.example.rawan.retrieve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765979984717-q6e76bmsn0vslhn3n6o1bh78ttq7dpcg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rawan.retrieve",
+            "certificate_hash": "d1195c4b429fd82119ba31d08cbb5565db210363"
+          }
+        },
+        {
+          "client_id": "765979984717-m8fj94t7krdqb91ao7bhbj2jebgt3r1r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "765979984717-m8fj94t7krdqb91ao7bhbj2jebgt3r1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChGHZY6HENmnxLFpi0lDwYJhzY2uiZtVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765979984717-m8fj94t7krdqb91ao7bhbj2jebgt3r1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765979984717:android:a4af1178b6659339",
+        "android_client_info": {
+          "package_name": "com.example.rawan.stroreretrievefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765979984717-liuetbhe1ckn3url7p7sn5n9l0dhpgq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rawan.stroreretrievefirebase",
+            "certificate_hash": "d1195c4b429fd82119ba31d08cbb5565db210363"
+          }
+        },
+        {
+          "client_id": "765979984717-m8fj94t7krdqb91ao7bhbj2jebgt3r1r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "765979984717-m8fj94t7krdqb91ao7bhbj2jebgt3r1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChGHZY6HENmnxLFpi0lDwYJhzY2uiZtVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765979984717-m8fj94t7krdqb91ao7bhbj2jebgt3r1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
